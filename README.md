@@ -19,5 +19,10 @@ I also tested the process multiple times until everything worked smoothly includ
 This repository includes the Flannel YAML I applied and the notes I kept during the setup process  
 The goal was to create a minimal stable Kubernetes cluster that follows the official best practices but is also easy to reproduce later  
 
+<img width="392" height="71" alt="image" src="https://github.com/user-attachments/assets/c0b5a2b6-f0cc-4b4e-b432-b81b264a10e6" />
+<img width="779" height="693" alt="image" src="https://github.com/user-attachments/assets/bb150d23-9169-433b-bb26-f97f05ee9e06" />
+<img width="951" height="412" alt="image" src="https://github.com/user-attachments/assets/531bec50-dda1-454b-b2e3-869a3f1949bd" />
+
+
 Tziyon Bublil  
 DevOps and AI Infrastructure  
